@@ -1,2 +1,2 @@
 # DjangoPrograms
-small programs for learning Django
+Small programs for learning Django
